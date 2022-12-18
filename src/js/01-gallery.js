@@ -24,4 +24,5 @@ const inputGalleryToDocument = (() => {
 const gallery = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
+  scrollZoom: false,
 });
