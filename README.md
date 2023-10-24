@@ -1,2 +1,1 @@
-# goit-js-vanila
-Home works GoIT vanila javascript 
+# goit-js-hw-08
